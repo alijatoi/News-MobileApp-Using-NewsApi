@@ -1,4 +1,6 @@
 # News-MobileApp-Using-NewsApi
+## News Android App Using Kotlin
+  Read Worldwide news and stay updated
 
 ### Library Used : 
   a) Volley
