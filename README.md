@@ -12,7 +12,9 @@
  ### Implemented (Chrome Opening a Custom Tab)
   App to Browser Link Opening
 
-  
+https://developer.chrome.com/docs/android/custom-tabs/integration-guide/
+
+
   ### Android components Used : 
   Kotlin, Android
   Views : TextView, ImageView
