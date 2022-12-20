@@ -5,9 +5,13 @@
 ### Library Used : 
   a) Volley
   b) Glide Library
-  
+ 
  ### News Api
   Source : https://saurav.tech/NewsAPI/
+ 
+ ### Implemented (Chrome Opening a Custom Tab)
+  App to Browser Link Opening
+
   
   ### Android components Used : 
   Kotlin, Android
